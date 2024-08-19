@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jam-xu
 - 👀 I’m interested in bioinfo
-- 🌱 I’m currently learning ml
 - 📫 How to reach me: jia.m.xu@mail.mcgill.ca
 
 <!---
